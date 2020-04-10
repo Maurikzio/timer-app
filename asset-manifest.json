@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/timer-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/timer-app/static/js/main.827e1f7e.chunk.js",
+    "main.js.map": "/timer-app/static/js/main.827e1f7e.chunk.js.map",
+    "runtime-main.js": "/timer-app/static/js/runtime-main.3747183f.js",
+    "runtime-main.js.map": "/timer-app/static/js/runtime-main.3747183f.js.map",
+    "static/js/2.a52bd60d.chunk.js": "/timer-app/static/js/2.a52bd60d.chunk.js",
+    "static/js/2.a52bd60d.chunk.js.map": "/timer-app/static/js/2.a52bd60d.chunk.js.map",
+    "index.html": "/timer-app/index.html",
+    "precache-manifest.df74365ef043ec4d977132941f471725.js": "/timer-app/precache-manifest.df74365ef043ec4d977132941f471725.js",
+    "service-worker.js": "/timer-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/timer-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a52bd60d.chunk.js.LICENSE.txt": "/timer-app/static/js/2.a52bd60d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/timer-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3747183f.js",
+    "static/js/2.a52bd60d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.827e1f7e.chunk.js"
+  ]
+}
