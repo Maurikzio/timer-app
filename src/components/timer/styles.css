@@ -1,0 +1,14 @@
+.box{
+    background-color: #feb72b;
+    border: 1px solid black;
+    width: 700px;
+    margin: 20px auto;
+    padding-bottom: 30px;
+}
+.box h2 {
+    color: #2b580c;
+}
+.line{
+    height: 10px;
+    background: #899857;
+}
